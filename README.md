@@ -2,6 +2,8 @@
 
 > ## Table with the links you provided, including the name, number, and the website's purpose:
 
+- [macrotrends](https://www.macrotrends.net/global-metrics/countries/ind/india/population)
+
 | **Number** | **Website Name**                                      | **Purpose**                                                                                              |
 |------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | 1          | [OIC Palestine](https://palestine.oic-oci.org)          | Provides official information on the Organization of Islamic Cooperation's efforts and news on Palestine. |
