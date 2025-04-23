@@ -2,7 +2,7 @@
 
 > ## Table with the links you provided, including the name, number, and the website's purpose:
 
-- [macrotrends](https://www.macrotrends.net/global-metrics/countries/ind/india/population)
+- [Macrotrends](https://www.macrotrends.net/global-metrics/countries/ind/india/population)
 
 | **Number** | **Website Name**                                      | **Purpose**                                                                                              |
 |------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
