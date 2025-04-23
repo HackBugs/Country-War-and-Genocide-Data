@@ -1,4 +1,4 @@
-# Country-War-and-Genocide-Data
+> # Country-War-and-Genocide-Data
 
 > ## Table with the links you provided, including the name, number, and the website's purpose:
 
@@ -21,7 +21,7 @@
 
 <hr>
 
-# **Complete Global War & Mortality Data Sheet (Deep Research Edition)**  
+> # **Complete Global War & Mortality Data Sheet (Deep Research Edition)**  
 
 #### **1. **Historical Wars (WWI, WWII, Major Conflicts)**
 | **Website**               | **Link**                                                                 | **Key Data**                                                                 |
@@ -74,5 +74,62 @@
 - **Country-specific?** (e.g., Syria, Ukraine, Congo)  
 - **Time period?** (e.g., Cold War, 21st-century conflicts)  
 - **Data format?** (Excel, PDF, API)  
+
+<hr>
+
+> # **Live Global Conflict Tracker (Present Time - 2024)**  
+*(Real-time updates on wars, violence, and fatalities worldwide)*  
+
+---
+
+#### **🌍 1. Active War Zones (2024)**
+| **Conflict**       | **Location**       | **Key Websites for Live Updates**                                                                 | **Casualty Estimates (2024)** |
+|--------------------|-------------------|--------------------------------------------------------------------------------------------------|-----------------------------|
+| **Israel-Hamas War** | Gaza, Palestine  | - [Al Jazeera Live](https://www.aljazeera.com/live/) <br> - [Liveuamap - Palestine](https://palestine.liveuamap.com/) | ~40,000+ (Oct 2023-Present) |
+| **Russia-Ukraine War** | Ukraine         | - [Kyiv Independent](https://kyivindependent.com/) <br> - [War in Ukraine (Liveuamap)](https://liveuamap.com/ukraine) | ~500,000+ (Feb 2022-Present) |
+| **Sudan Civil War** | Sudan           | - [ACLED Sudan Dashboard](https://acleddata.com/sudan/) <br> - [Sudan War Monitor](https://sudanwarmonitor.com/) | ~15,000+ (April 2023-Present) |
+| **Myanmar Civil War** | Myanmar        | - [Myanmar Now](https://myanmar-now.org/en/) <br> - [ACLED Myanmar](https://acleddata.com/asia/myanmar/) | ~50,000+ (2021-Present) |
+| **Yemen Conflict**  | Yemen           | - [Yemen Peace Project](https://yemenpeaceproject.org/) <br> - [ACLED Yemen](https://acleddata.com/middle-east/yemen/) | ~400,000+ (2014-Present) |
+
+---
+
+#### **📡 2. Real-Time Monitoring Tools**
+| **Tool**          | **Link**                                                                 | **What It Tracks**                                                                 |
+|-------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| **ACLED Dashboard** | [https://acleddata.com/dashboard/](https://acleddata.com/dashboard/)     | Live conflict events, fatalities, and trends (global).                          |
+| **Liveuamap**      | [https://liveuamap.com](https://liveuamap.com)                          | Real-time maps of wars (Ukraine, Gaza, Africa).                                 |
+| **RANE Stratfor**  | [https://worldview.stratfor.com](https://worldview.stratfor.com)        | Geopolitical risk analysis + conflict forecasts.                                |
+| **Google Crisis Map** | [https://crisis.google.com](https://crisis.google.com)                | Natural disasters + war zones (refugee movements, attacks).                    |
+
+---
+
+#### **💀 3. Casualty Counters (2024)**
+| **Source**        | **Link**                                                                 | **Data Provided**                                                             |
+|-------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **Gaza Health Ministry** | [https://www.moh.gov.ps](https://www.moh.gov.ps)                     | Official Palestinian casualty figures (Gaza).                               |
+| **Ukraine MoD Casualties** | [https://www.mil.gov.ua](https://www.mil.gov.ua)                   | Ukrainian govt. reports on Russian losses.                                  |
+| **Syrian Observatory for Human Rights (SOHR)** | [https://www.syriahr.com](https://www.syriahr.com) | Syria war deaths (2011-Present).                                            |
+
+---
+
+#### **📌 4. Special Notes (2024 Conflicts)**
+1. **Sudan Crisis:** Ethnic violence in Darfur + RSF vs. Army clashes.  
+   - Track: [Sudan Tribune](https://www.sudantribune.com/)  
+2. **Haiti Gang Wars:** 3,000+ killed in 2024 (UN reports).  
+   - Track: [Haiti Sentinel](https://www.haitisentinel.com/)  
+3. **Sahel Region (Africa):** Jihadist violence in Mali, Burkina Faso.  
+   - Track: [ACLED Sahel](https://acleddata.com/africa/sahel/)  
+
+---
+
+### **How to Use This Sheet?**  
+✔ **Daily Updates:** Bookmark **Liveuamap + ACLED**.  
+✔ **Verify Data:** Cross-check with **Al Jazeera/BBC**.  
+✔ **Download Data:** Use **ACLED’s Excel exports** for research.  
+
+**Need More?**  
+- Specific country? (e.g., **Congo, Armenia-Azerbaijan**)  
+- Refugee/displacement stats?  
+- Historical comparisons?  
 
 ---
