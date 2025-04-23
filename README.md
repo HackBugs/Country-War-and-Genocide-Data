@@ -21,43 +21,58 @@
 
 <hr>
 
-# Duniya bhar mein ho rahe yudh (wars) aur unke mortality rates (maut ke aakde) ke baare mein jaankari.
+# **Complete Global War & Mortality Data Sheet (Deep Research Edition)**  
+
+#### **1. **Historical Wars (WWI, WWII, Major Conflicts)**
+| **Website**               | **Link**                                                                 | **Key Data**                                                                 |
+|---------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **National WWII Museum**  | [Click Here](https://www.nationalww2museum.org)                          | WWII deaths (70-85M) with military/civilian splits by country.              |
+| **WWI Casualties (Britannica)** | [Click Here](https://www.britannica.com)                          | WWI deaths (~20M) with country-wise stats.                                  |
+| **Correlates of War Project** | [Click Here](https://correlatesofwar.org)                          | 1816-present war data (battles, deaths, treaties).                          |
+| **SIPRI Military Database** | [Click Here](https://www.sipri.org)                                | Arms trade, conflicts, and war spending (1945-present).                     |
+| **Holocaust Encyclopedia (USHMM)** | [Click Here](https://encyclopedia.ushmm.org)                  | WWII Holocaust deaths (6M Jews + others).                                   |
 
 ---
 
-### 🌐 1. **Uppsala Conflict Data Program (UCDP)**
-- **Website:** [ucdp.uu.se](https://ucdp.uu.se)
-- **Visheshata:** UCDP duniya bhar ke conflicts ka data prastut karta hai, jisme battle-related deaths (yudh se judi maut) ka vistarit record hota hai. Aap yahan charts, maps, aur datasets ke madhyam se alag-alag deshon aur samayavadhiyon ke data dekh sakte hain.
-- **Data Coverage:** 1946 se vartaman tak ka data uplabdh hai.
-- **Udaharan:** 2021 mein, UCDP ke data ke anusar, lagbhag 119,000 logon ki maut sangathit hinsa ke karan hui thi, jo pichle saal ke mukable mein 46% adhik thi citeturn0search9.
+#### **2. **Current Conflicts & Real-Time War Tracking**
+| **Website**               | **Link**                                                                 | **Key Data**                                                                 |
+|---------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **ACLED (Armed Conflict Data)** | [Click Here](https://acleddata.com)                              | Live conflict events (deaths, locations, actors).                           |
+| **UCDP (Uppsala Data)**   | [Click Here](https://ucdp.uu.se)                                       | 1946-present conflict stats (battle deaths, trends).                        |
+| **Liveuamap**             | [Click Here](https://liveuamap.com)                                   | Real-time war maps (Ukraine, Gaza, Sudan, etc.).                            |
+| **War Casualties Database** | [Click Here](https://www.icrc.org/en/war-and-law/casualties)     | ICRC’s verified war deaths/humanitarian data.                               |
+| **Global Terrorism Database** | [Click Here](https://www.start.umd.edu/gtd)                     | Terror attacks & fatalities (1970-present).                                 |
 
 ---
 
-### 📊 2. **ACLED (Armed Conflict Location & Event Data Project)**
-- **Website:** [acleddata.com](https://acleddata.com)
-- **Visheshata:** ACLED real-time mein conflicts ka data prastut karta hai, jisme har incident ka location, date, aur fatalities ka record hota hai. Yeh data interactive maps aur charts ke roop mein uplabdh hai.
-- **Data Coverage:** 1997 se vartaman tak ka data.
-- **Udaharan:** ACLED ke data ke anusar, 2024 mein Palestinian Territories mein sabse adhik conflict intensity dekhi gayi, jahan ki 80% se adhik jansankhya yudh se prabhavit thi citeturn0search0.
+#### **3. **Genocides, Pandemics & Mass Mortality Events**
+| **Website**               | **Link**                                                                 | **Key Data**                                                                 |
+|---------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **Our World in Data (OWID)** | [Click Here](https://ourworldindata.org)                            | War, pandemics, famines compared (1900-present).                           |
+| **WHO Mortality Database** | [Click Here](https://www.who.int/data/data-collection-tools/who-mortality-database) | Official global death records (diseases, wars, disasters).                  |
+| **Genocide Watch**        | [Click Here](https://www.genocidewatch.com)                              | Active genocide alerts & historical data.                                   |
+| **Rwandan Genocide Archive** | [Click Here](https://genocidearchiverwanda.org.rw)                  | Detailed records of 1994 Rwanda genocide (~800K deaths).                    |
 
 ---
 
-### 🗺️ 3. **Global Conflict Tracker (Council on Foreign Relations)**
-- **Website:** [cfr.org/global-conflict-tracker](https://www.cfr.org/global-conflict-tracker)
-- **Visheshata:** Yeh website duniya bhar ke major conflicts ka overview deti hai, jisme unka background, current status, aur potential solutions ke baare mein jaankari hoti hai. Yeh khas kar policymakers aur general public ke liye upyogi hai.
-- **Data Coverage:** Vartaman conflicts par kendrit.
+#### **4. **Military & Arms Data (Advanced Research)**
+| **Website**               | **Link**                                                                 | **Key Data**                                                                 |
+|---------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **SIPRI Arms Transfers**  | [Click Here](https://www.sipri.org/databases/armstransfers)             | Global weapons trade (1950-present).                                        |
+| **World Bank Conflict Data** | [Click Here](https://data.worldbank.org/topic/conflict)            | War economic impact (GDP loss, refugees).                                   |
+| **UN Peacekeeping Missions** | [Click Here](https://peacekeeping.un.org/en/data)                  | Casualties in UN missions (1948-present).                                   |
 
 ---
 
-### 📰 4. **Liveuamap**
-- **Website:** [liveuamap.com](https://liveuamap.com)
-- **Visheshata:** Liveuamap ek real-time mapping platform hai jo duniya bhar ke conflicts, protests, aur anya major events ko map par dikhata hai. Yeh visual representation ke madhyam se samachar aur incidents ko prastut karta hai.
-- **Data Coverage:** Real-time updates.
+### **Pro Research Tips:**  
+1. **For Raw Data:** Use **UCDP/ACLED** → Download Excel/CSV files.  
+2. **Visualization:** **Our World in Data** for interactive charts.  
+3. **Verify Sources:** Cross-check with **WHO/ICRC** for accuracy.  
+4. **Breaking News:** **Liveuamap** + **ACLED** for real-time updates.  
 
----
-
-### 📈 5. **Statista – ACLED Conflict Index**
-- **Website:** [statista.com/statistics/1548430/acled-conflict-index-total-score](https://www.statista.com/statistics/1548430/acled-conflict-index-total-score/)
-- **Visheshata:** Statista ACLED ke data ka sankalan karke conflict intensity ka index prastut karta hai, jisme alag-alag deshon ka tulnatmak analysis hota hai.
-- **Data Coverage:** Vartaman data par kendrit.
+**Need More?**  
+- **Country-specific?** (e.g., Syria, Ukraine, Congo)  
+- **Time period?** (e.g., Cold War, 21st-century conflicts)  
+- **Data format?** (Excel, PDF, API)  
 
 ---
