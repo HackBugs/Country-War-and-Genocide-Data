@@ -1,6 +1,8 @@
 > # Country-War-and-Genocide-Data
 
 - [WORLD-DATA](https://www.imf.org/external/datamapper/LUR@WEO/OEMDC/ADVEC/WEOWORLD)
+- [worlddata-info](https://www.worlddata.info/)
+- [worldbank](https://data.worldbank.org/)
 
 > ## Table with the links you provided, including the name, number, and the website's purpose:
 
